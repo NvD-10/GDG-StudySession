@@ -1,2 +1,2 @@
-def maximum(nums: list):
-    return max(nums)
+for n in range(2, 21, 2):
+    print(n)
