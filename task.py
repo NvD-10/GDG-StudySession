@@ -1,2 +1,2 @@
-def add(nums: list):
-    return sum(nums)
+def maximum(nums: list):
+    return max(nums)
